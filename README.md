@@ -58,8 +58,8 @@ Em seguida, no menu, clique em Runtime -> Run all. Simples assim! <br>
 
 _______________________________
 
-Mas você também pode rodar localmente seguindo dos procedimentos abaixo: <br><br>
-Primeiramente, você deve ter instalado em seu computador o Python e o pip, você pode fazer isso executando as seguites linhas de comando
+Mas você também pode rodar localmente seguindo os procedimentos abaixo: <br><br>
+Primeiramente, você deve ter instalado em seu computador o Python e o pip, você pode fazer isso executando as seguintes linhas de comando
 ```
 sudo apt-get update
 sudo apt-get install python3
@@ -73,7 +73,7 @@ Em seguida instale o Jupyter Notebook, o comando é
 ```
 pip3 install jupyter
 ```
-Assim que o Jupyter é instalado, é necessário baixar o repositório em seu computador, então use o seguinte comando
+Assim que o Jupyter for instalado, é necessário baixar o repositório em seu computador, então use o seguinte comando
 ```
 git clone https://github.com/Dellonath/teste-smarkio.git
 ```
