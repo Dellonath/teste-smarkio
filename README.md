@@ -67,7 +67,7 @@ jupyter notebook
 ```
 Com o Jupyter Notebook aberto em seu navegador, busque a pasta onde o repositório foi clonado, você encontrará algo como abaixo
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56659549/108152578-109dc300-70b8-11eb-89dd-f65413d8643e.png">
+  <img src="https://user-images.githubusercontent.com/56659549/108369873-cf520400-71da-11eb-9ea5-15073e928cfc.png">
 </p>
 
 Clique então em **teste_final_smarkio.ipynb**, uma nova janela será aberta com o Jupyter Notebook aberto. No menu do Jupyter Notebook, selecione Kernel e clique em Restart & Run All, vide abaixo
