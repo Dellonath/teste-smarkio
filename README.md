@@ -76,6 +76,6 @@ Clique então em **teste_final_smarkio.ipynb**, uma nova janela será aberta com
   <img src="https://user-images.githubusercontent.com/56659549/108152652-46db4280-70b8-11eb-98a9-be6b3437f84d.png">
 </p>
 
-**Obs: verifique a versão pip instalada em seu computador, dependendo da versão é necessário trocar as palavras pip na primeira série por pip3 e refaça o procedimento descrito na imagem anterior.**
+**Obs: verifique a versão pip instalada em seu computador, dependendo da versão é necessário trocar as palavras pip na primeira célula por pip3 e refaça o procedimento descrito na imagem anterior.**
 
 Aguarde a finalização das execuções, talvez demore alguns segundos.
