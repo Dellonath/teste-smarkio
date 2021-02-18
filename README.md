@@ -92,6 +92,6 @@ Clique então em **teste_final_smarkio.ipynb**, uma nova janela será aberta com
   <img src="https://user-images.githubusercontent.com/56659549/108152652-46db4280-70b8-11eb-98a9-be6b3437f84d.png">
 </p>
 
-**Obs: a primeira célula é responsável apenas por instalar as ferramentas necessárias, caso já possua elas, pode ignorá-la, caso não, verifique a versão pip instalada em seu computador, dependendo da versão é necessário trocar as palavras pip na primeira célula por pip3 e refaça o procedimento descrito na imagem anterior.**
+**Obs: a primeira célula é responsável apenas por instalar as ferramentas necessárias, caso já possua elas, pode ignorá-la, caso não, verifique a versão pip instalada em seu computador, dependendo da versão é necessário trocar as palavras pip3 na primeira célula por pip e refaça o procedimento descrito na imagem anterior.**
 
 Aguarde a finalização das execuções, talvez demore alguns segundos.
