@@ -43,6 +43,22 @@ Foi fornecido um Dataset pequeno em formato .xls (2 abas) e um arquivo PDF com a
 </p>
 
 ### Como executar
+Existe uma maneira simples de visualizar o notebook, basta acessar o arquivo **teste_final_smarkio.ipynb** que está junto os demais arquivos. Ele já foi previamente executado e preparado para uma visualização rápida. Caso deseja realmente executar o notebook, existem duas opções, você pode clicar no badge abaixo para acessar o Jupyter Notebook pelo Google Colab <br><br>
+<a href="https://colab.research.google.com/drive/1I-EsN_VxSYKBsC35HnlxdUuhp-xRAT5W?usp=sharing">
+  <img src="https://img.shields.io/static/v1?label=Google%20Colab&message=Link%20Direto&color=7bbde8&style=for-the-badge&logo=Google-Colab"/>
+</a> <br>
+
+No Colab, será necessário você fazer upload do arquivo **teste_smarkio_Lbs.xls**, que está dentro da pasta dados deste repositório. Após baixar o arquivo .xls, inicie a operação de upload clicando no ícone de pasta no canto esquerdo do Colab e clicando na opção de envio de arquivo e então fazer o upload, veja abaixo 
+<br>
+
+<img width=500 src="https://user-images.githubusercontent.com/56659549/108376370-b6008600-71e1-11eb-913b-d9ae66272b58.png"/> <br>
+
+Em seguida, no menu, clique em Runtime -> Run all. Simples assim! <br>
+**Obs: este colab estará disponível apenas até ser realizada a avaliação, após este evento o link será invalidado.**
+
+_______________________________
+
+Mas você também pode rodar localmente seguindo dos procedimentos abaixo: <br><br>
 Primeiramente, você deve ter instalado em seu computador o Python e o pip, você pode fazer isso executando as seguites linhas de comando
 ```
 sudo apt-get update
@@ -70,12 +86,12 @@ Com o Jupyter Notebook aberto em seu navegador, busque a pasta onde o repositór
   <img src="https://user-images.githubusercontent.com/56659549/108369873-cf520400-71da-11eb-9ea5-15073e928cfc.png">
 </p>
 
-Clique então em **teste_final_smarkio.ipynb**, uma nova janela será aberta com o Jupyter Notebook aberto. No menu do Jupyter Notebook, selecione Kernel e clique em Restart & Run All, vide abaixo
+Clique então em **teste_final_smarkio.ipynb**, uma nova janela será aberta com o Jupyter Notebook aberto. No menu do Jupyter Notebook, selecione Kernel e clique em Restart & Run All, veja abaixo
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56659549/108152652-46db4280-70b8-11eb-98a9-be6b3437f84d.png">
 </p>
 
-**Obs: verifique a versão pip instalada em seu computador, dependendo da versão é necessário trocar as palavras pip na primeira célula por pip3 e refaça o procedimento descrito na imagem anterior.**
+**Obs: a primeira célula é responsável apenas por instalar as ferramentas necessárias, caso já possua elas, pode ignorá-la, caso não, verifique a versão pip instalada em seu computador, dependendo da versão é necessário trocar as palavras pip na primeira célula por pip3 e refaça o procedimento descrito na imagem anterior.**
 
 Aguarde a finalização das execuções, talvez demore alguns segundos.
