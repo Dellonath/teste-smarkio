@@ -53,7 +53,7 @@ No Colab, será necessário você fazer upload do arquivo **teste_smarkio_Lbs.xl
 
 <img width=500 src="https://user-images.githubusercontent.com/56659549/108376370-b6008600-71e1-11eb-913b-d9ae66272b58.png"/> <br>
 
-Em seguida, no menu, clique em Runtime -> Run all. Simples assim! <br>
+Em seguida, no menu, clique em Runtime -> Run all. Simples assim! <br><br>
 **Obs: este colab estará disponível apenas até ser realizada a avaliação, após este evento o link será invalidado.**
 
 _______________________________
@@ -71,7 +71,7 @@ sudo apt-get install git
 ```
 Em seguida instale o Jupyter Notebook, o comando é
 ```
-pip3 install jupyter
+sudo pip3 install jupyter
 ```
 Assim que o Jupyter for instalado, é necessário baixar o repositório em seu computador, então use o seguinte comando
 ```
